@@ -1,0 +1,22 @@
+-----------------------------------------------------------------------------
+--                             This is ASPECT                              --
+-- The Advanced Solver for Planetary Evolution, Convection, and Tectonics. --
+-----------------------------------------------------------------------------
+--     . version 2.6.0-pre (main, fd9f327)
+--     . using deal.II 9.6.0-pre (master, edd46ab)
+--     .       with 32 bit indices
+--     .       with vectorization level 3 (AVX512, 8 doubles, 512 bits)
+--     . using Trilinos 14.4.0
+--     . using p4est 2.3.2
+--     . using Geodynamic World Builder 0.6.0
+--     . running in OPTIMIZED mode
+--     . running with 480 MPI processes
+-----------------------------------------------------------------------------
+
+
+   Loading Ascii data initial file composition.txt.
+
+-----------------------------------------------------------------------------
+-- For information on how to cite ASPECT, see:
+--   https://aspect.geodynamics.org/citing.html?ver=2.6.0-pre&NewtonSolver=1&mf=1&sha=fd9f327&src=code
+-----------------------------------------------------------------------------
