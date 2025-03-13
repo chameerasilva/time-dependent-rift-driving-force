@@ -1,1 +1,0 @@
-# time-dependent-rift-driving-force
